@@ -1,0 +1,9 @@
+{
+  "server": {
+    "address": "localhost",
+    "port": 8080
+  },
+  "database": {
+    "connectionString": "postgres://postgres:123456@localhost:5777/spycat_test?sslmode=disable"
+  }
+}

@@ -1,0 +1,30 @@
+# Ignore .idea directory
+.idea/
+
+# Ignore Go build artifacts
+/bin/
+/pkg/
+/main
+
+# Ignore dependency directories
+/vendor/
+
+# Ignore compiled object files
+*.o
+
+# Ignore log files
+*.log
+
+# Ignore executable files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variable files
+.env
